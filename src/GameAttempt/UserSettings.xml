@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<class>
+    <settings>
+        <screen_resolution>
+            <width>1920</width>
+            <height>1080</height>
+            <bitDepth>32</bitDepth>
+            <refreshRate>60</refreshRate>
+        </screen_resolution>
+        <keyBindings>
+            <up>VK_UP</up>
+            <down>VK_DOWN</down>
+            <left>VK_LEFT</left>
+            <right>VK_RIGHT</right>
+            <action>VK_CONTROL</action>
+        </keyBindings>
+    </settings>
+</class>
