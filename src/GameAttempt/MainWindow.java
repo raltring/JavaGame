@@ -11,6 +11,7 @@ public class MainWindow extends JFrame {
     public MainWindow(AssetLoader assets, GraphicsDevice myDevice, DisplayMode myDisplay){
         this.setUndecorated(true);                                  //Removes "decorations" e.g. menu bar
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
+        screenResolution = new Dimension(myDisplay.getWidth(), myDisplay.getHeight());
         panel = new MainPanel(screenResolution, assets);
         this.add(panel);
         this.setResizable(false);
