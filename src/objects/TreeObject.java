@@ -1,4 +1,4 @@
-package src.GameObjects;
+package src.objects;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

@@ -1,12 +1,14 @@
-package src.GameAttempt;
+package src.gui;
 
 import javax.imageio.ImageIO;
+
+import src.objects.*;
+
 import java.awt.*;
 import java.awt.geom.Dimension2D;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
-import src.GameObjects.*;
 
 public class AssetLoader {
     private final FloatDimension BASE_RESOLUTION = new FloatDimension(1920.0f, 1080.0f);

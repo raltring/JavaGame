@@ -1,4 +1,4 @@
-package src.GameAttempt;
+package src.gui;
 
 public class MainThread extends Thread{
     MainPanel panel;

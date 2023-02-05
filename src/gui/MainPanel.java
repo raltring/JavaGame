@@ -1,7 +1,9 @@
-package src.GameAttempt;
+package src.gui;
 
-import src.GameObjects.*;
 import javax.swing.*;
+
+import src.objects.*;
+
 import java.awt.*;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;

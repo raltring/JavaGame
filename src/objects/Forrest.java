@@ -1,4 +1,4 @@
-package src.GameObjects;
+package src.objects;
 
 public class Forrest {
 

@@ -1,12 +1,13 @@
 import org.xml.sax.SAXException;
 
+import src.gui.AssetLoader;
+import src.gui.MainWindow;
+import src.gui.xmlIO;
+
 import javax.xml.parsers.ParserConfigurationException;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.io.IOException;
-import src.GameAttempt.AssetLoader;
-import src.GameAttempt.MainWindow;
-import src.GameAttempt.xmlIO;
 
 public class Game {
 

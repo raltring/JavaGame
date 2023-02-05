@@ -1,10 +1,10 @@
-package src.GameObjects;
-
-import src.GameAttempt.ButtonStates;
+package src.objects;
 
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.awt.geom.AffineTransform;
+
+import src.gui.ButtonStates;
 
 public class PlayerObject{
     private Dimension playerSize = new Dimension(20,20);

@@ -1,4 +1,4 @@
-package src.GameAttempt;
+package src.gui;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

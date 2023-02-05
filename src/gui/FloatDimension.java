@@ -1,4 +1,4 @@
-package src.GameAttempt;
+package src.gui;
 
 import java.awt.geom.Dimension2D;
 
